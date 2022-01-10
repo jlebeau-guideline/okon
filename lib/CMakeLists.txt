@@ -1,4 +1,4 @@
-add_library(okon STATIC
+add_library(okon SHARED
     btree.hpp
     btree_base.hpp
     btree_node.cpp
